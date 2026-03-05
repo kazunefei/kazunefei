@@ -1,4 +1,4 @@
-## hello
+## 👋 hello
 
 I'm Kazune, a current 4th-year bioinformatics student at UC San Diego. very interested in things like finance, gambling, biotech, and data!
 
