@@ -1,4 +1,4 @@
-i'm Kazune, a current 4th-year bioinformatics student at UC San Diego. interested in finance, biotech, data, and how to gamble well
+i'm kazune, a current 4th-year bioinformatics student at uc san diego. interested in finance, biotech, data, and how to gamble well
 
 ## 📈 experience
 i'll be joining data cloud @ Google as a full-time software engineer later this year\
