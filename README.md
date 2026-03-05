@@ -9,7 +9,7 @@ Previously, I was a quantitative research intern at American Century Investments
 
 ## ✉️ Contact
 - [email](mailto:kfei@ucsd.edu) 
-- [linkedin]((https://www.linkedin.com/in/kazune/))
+- [linkedin](https://www.linkedin.com/in/kazune/)
 <!--
 **kazunefei/kazunefei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
