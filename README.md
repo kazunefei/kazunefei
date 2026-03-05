@@ -8,8 +8,8 @@ Will be joining Google in summer 2026 as a full-time software engineer in the da
 Previously, I was a quantitative research intern at American Century Investments on a newly launched systematic fixed-income desk. Before that, I worked at Eli Lilly as a software engineer intern on the automation engineering team and at Osaka University as a research intern. Always looking to grow and learn, and am very interested in branching out in spaces like finance, fintech, biotech, and swe!
 
 ## ✉️ Contact
-[email](mailto:kfei@ucsd.edu) \
-[linkedin](linkedin.com/in/kazune)
+- [email](mailto:kfei@ucsd.edu) 
+- [linkedin]((https://www.linkedin.com/in/kazune/))
 <!--
 **kazunefei/kazunefei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
