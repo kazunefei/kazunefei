@@ -5,7 +5,7 @@ i'll be joining data cloud @ Google as a full-time software engineer later this 
 \
 previously, i was a quant research intern at American Century Investments on a newly launched systematic fixed-income desk. before that, i worked at Eli Lilly as a software engineer intern on the automation engineering team and at Osaka University as an intern doing computational protein research. \
 \
-always looking to grow and learn, and interested in branching out into finance, fintech, biotech, and SWE!
+always looking to grow and learn, especially in tech, finance, biotech
 
 ## ✉️ contact
 - [email](mailto:kfei@ucsd.edu) 
