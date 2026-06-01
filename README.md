@@ -1,7 +1,7 @@
 i'm kazune, a current 4th-year bioinformatics student at uc san diego. interested in finance, biotech, data, and how to gamble well
 
 ## 📈 experience
-i'll be joining data cloud @ Google as a full-time software engineer later this year\
+i'll be joining Google as a full-time software engineer later this year\
 \
 previously, i was a quant research intern at American Century Investments on a newly launched systematic fixed-income desk. before that, i worked at Eli Lilly as a software engineer intern on the automation engineering team and at Osaka University as an intern doing computational protein research. \
 \
